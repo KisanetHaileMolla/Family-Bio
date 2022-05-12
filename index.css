@@ -1,0 +1,73 @@
+<style>
+title {color :red;}
+h1 {background-color :#004064;
+  color :white;
+text-align :center;
+border :10px ridge;
+  padding-top :10px;
+  Margin-top :28px;}
+#overall {border :10px solid plum;}
+.menu {background-color :	#D8BFD8;
+font-weight :bold;
+position :fixed;
+top :0px;
+  right :1px;
+  left :1px;
+  z-index:5;}
+.one {margin-right :150px;}
+
+h2 {color :purple;}
+h3 {color :#002366;
+font-weight :bold;
+font-family :sans-serif;}
+a:hover {color :red;}
+.image {border :ridge purple;
+width :250px;
+padding :60px;
+margin :15px}
+#habeney {margin :100px;}
+#the-bio {background-color :	#E6E6FA;
+width :100%;}
+#contact {font-size :24px;
+  background-color :#dae1cf;
+padding :30px;
+  margin-right :40px;
+  margin-left :40px;
+  float-top :10px;
+  top :16px;
+  left :0px;
+color :blue;
+  clear :both;
+  position :relative;
+  z-index :4;}
+
+.references {background-color :#cedee7;
+  width :60%;
+float :right;
+border :9px ridge plum;
+  Font-family :cursive}
+  
+
+#fam {position :absolute;
+  left :25px;
+  width:250px;
+  z-index :1;
+  float-bottom 10px;}
+
+#love {width :80px;
+  position :absolute;
+  top :3070px;
+  z-index :2;}
+
+.always{font-size :40px;
+  font-style :italic;
+  font-weight :bold;
+  background-color :yellow;
+  position :relative;
+  top :150px;
+  left :10px;
+  z-index :3;
+}
+
+
+ </style >
